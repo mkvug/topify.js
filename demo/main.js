@@ -6,7 +6,7 @@
 
         $('figure.full').topify({
             el: $('figure.full').prev(),
-            offset: 500,
+            offset: 300,
             classToAssign: 'slideUp',
             clickable: false
         });
