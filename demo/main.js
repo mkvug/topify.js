@@ -4,6 +4,11 @@
             offset: $('header').height()
         });
 
-        console.log('hi');
+        $('figure.full').topify({
+            el: $('figure.full').prev(),
+            offset: 500,
+            classToAssign: 'slideUp',
+            clickable: false
+        });
     });
 })(jQuery);
