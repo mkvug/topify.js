@@ -1,9 +1,0 @@
-{
-  "name": "Topify",
-  "version": "0.0.1",
-  "devDependencies": {
-    "grunt": "*",
-    "grunt-contrib-jshint": "*",
-    "grunt-contrib-uglify": "*"
-  }
-}
