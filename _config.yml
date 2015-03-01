@@ -2,8 +2,8 @@
 title: topify.js
 email: chris.neigh@gmail.com
 description: topify.js is a jQuery plugin that is used to add scroll based behaviors to elements on your page. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/topify.js/" # the subpath of your site, e.g. /blog/
+url: "http://mkvug.github.io/topify.js/" # the base hostname & protocol for your site
 twitter_username: mkv_ug
 github_username:  mkv_ug
 
